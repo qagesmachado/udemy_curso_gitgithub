@@ -1,3 +1,4 @@
 branch remoto 1
-Esse é um teste de conflito na branch 2
+
 Comentário da modificação da branch 1
+Este é um teste
