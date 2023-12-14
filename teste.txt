@@ -1,1 +1,2 @@
 branch remoto 1
+Esse é um teste de conflito na branch 2
