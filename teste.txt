@@ -5,3 +5,4 @@ Este é um teste
 Teste commit direto na master
 Teste
 Test2
+Teste 3
