@@ -4,3 +4,4 @@ Comentário da modificação da branch 1
 Este é um teste
 Teste commit direto na master
 Teste
+Test2
