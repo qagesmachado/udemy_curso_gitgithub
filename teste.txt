@@ -6,3 +6,4 @@ Teste commit direto na master
 Teste
 Test2
 Teste 3
+Teste 4
