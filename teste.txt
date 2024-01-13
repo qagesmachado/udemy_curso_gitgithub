@@ -10,3 +10,5 @@ Teste 4
 Teste 5
 
 Teste alteração para issue
+
+Teste comandos
